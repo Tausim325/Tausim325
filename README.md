@@ -1,6 +1,5 @@
 # 💫 About Me:
-I am a passionate MERN Full Stack Developer skilled in MongoDB, Express.js, React.js, and Node.js. I enjoy building responsive web applications, developing user-friendly interfaces, and solving real-world problems through code. I am eager to learn new technologies, contribute to a team, and grow as a software developer.
-
+Driven by curiosity, crafting solutions with code, and constantly evolving to leave a mark in the tech world.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tausim325) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Tausim325) 
